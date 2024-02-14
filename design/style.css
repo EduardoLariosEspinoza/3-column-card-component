@@ -49,7 +49,6 @@ button {
 
 button:hover {
   border: var(--blanco-pag) 0.125rem solid;
-  color: var(--blanco-pag);
   cursor: pointer;
 }
 
@@ -88,6 +87,7 @@ img {
 
 #button_sedans:hover {
   background-color: var(--sedans-color);
+  color: var(--blanco-pag);
 }
 
 #button_suvs {
@@ -96,6 +96,7 @@ img {
 
 #button_suvs:hover {
   background-color: var(--suvs-color);
+  color: var(--blanco-pag);
 }
 
 #button_luxury {
@@ -104,6 +105,7 @@ img {
 
 #button_luxury:hover {
   background-color: var(--luxury-color);
+  color: var(--blanco-pag);
 }
 
 .info_div {
